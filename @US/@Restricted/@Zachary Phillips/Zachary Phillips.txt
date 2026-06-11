@@ -1,0 +1,44 @@
+Zachary Phillips
+@.NET + AI
+
+Link: https://www.truepeoplesearch.com/find/person/pr92n6r924ll24r6rrr8
+DOB : Apr 1993
+Address : 2546 Pepperidge Dr, Katy, TX 77494
+Email : zacharyphils93@outlook.com
+password: P@ssw0rd!@#$%
+Recovery:
+Linkedin: https://www.linkedin.com/in/zachary-phillips-4205453ab/
+Resume:
+
+Senior AI-Enabled .NET Software Engineer
+Trigent Software | Minneapolis, MN
+Feb 2022 – Dec 2025
+● Architected and delivered an Agentic AI platform using Azure OpenAI (GPT-4/3.5) and LangChain, implementing autonomous logistics, customer service, and finance agents with tool calling across ERP systems, carrier REST/GraphQL APIs, and Twilio, enabling adaptive workflow execution for customs exceptions, routing changes, and customer communications.
+● Built a Retrieval-Augmented Generation (RAG) solution with LangChain, embedding models, and vector databases (Azure Cognitive Search / FAISS) to provide semantic search over shipping regulations and compliance documentation, allowing operations teams to query complex international requirements using natural language with source-grounded responses.
+● Developed AI-driven document processing pipelines using Python microservices, Azure Document Intelligence / Form Recognizer, OCR, and document classification models to automatically identify customs declarations, VAT forms, and invoices, reducing manual review effort by nearly 64% while improving data accuracy and regulatory consistency.
+● Implemented ML-based carrier selection and pricing optimization using Python (scikit-learn), combining shipment dimensions, weight, declared value, and historical carrier performance to generate automated cost vs. delivery-time recommendations and adaptive routing decisions beyond static rule-based systems.
+● Engineered event-driven AI automation using webhooks, message queues, and modular API connectors, enabling agents to react to ERP updates in real time, regenerate shipping documents, trigger Twilio SMS/email notifications, and propose alternative delivery routes—reducing customer shipment inquiries by over 55%.
+● Led the platform’s transition to a hybrid AI architecture, integrating .NET and Python microservices, OpenAI GPT reasoning models, LangChain agent orchestration, PostgreSQL, vector search, and Docker/Kubernetes on Azure, delivering scalable, resilient deployment of multi-agent systems across global logistics operations.
+● Owned the full Full-Stack development lifecycle, from system design and API architecture to UI delivery - building React + Tailwind dashboards for real-time shipment tracking, implementing REST & GraphQL integrations with ERP and carrier platforms, containerizing services with Docker, orchestrating deployments via Kubernetes, and delivering cloud-native AI solutions through Agile CI/CD pipelines on Azure.
+
+Senior Software Engineer (.NET/Computer Vision)
+Emergent Software | Southborough, MA
+Nov 2018 - Jan 2022
+● Architected and delivered an AI-powered Computer Vision platform using Azure Cognitive Services Computer Vision API (v2.1–v3.1), implementing pipelines for object detection, image classification, automated tagging, caption generation, and OCR, enabling large-scale processing of unstructured visual data across multiple industries.
+● Designed end-to-end image analysis workflows integrating Azure Computer Vision REST APIs, OpenCV, and custom .NET Core 2.2 / 3.1 (ASP.NET Core Web APIs) services to extract bounding boxes, confidence scores, object categories, and visual descriptors, supporting content-based image retrieval (CBIR) and ML dataset generation.
+● Built AI-driven visual data enrichment pipelines combining pretrained Azure Vision models with custom post-processing logic to normalize coordinates, generate structured metadata, and cluster detected entities (persons, objects, animals), transforming raw images into ML-ready datasets for recommendation engines and intelligent search.
+● Implemented OCR and document digitization pipelines using Azure Computer Vision Read API, enabling extraction of printed and handwritten text, layout-aware processing, and semantic indexing of scanned documents and mixed visual content.
+● Engineered scalable backend services leveraging Azure Blob Storage, asynchronous processing, and REST-based orchestration to support batch uploads, parallel image inference, and persistent storage of extracted features for analytics and continuous optimization.
+● Integrated computer vision outputs into higher-level ML workflows, enabling dataset curation, feature normalization, and preparation for downstream supervised learning and similarity matching systems.
+● Developed interactive visualization and annotation tools using Angular 8–10, Tailwind CSS, Fabric.js, and HTML5 Canvas, rendering bounding boxes and overlays to support human-in-the-loop validation, confidence review, and assisted labeling.
+● Delivered full-stack cloud solutions using ASP.NET Core 2.2/3.1, Angular, Azure App Services, Azure Blob Storage, and RESTful APIs, owning solution architecture, AI integration, frontend development, and Azure deployment pipelines.
+
+.NET Software Engineer
+Saritasa | Newport Beach, PA
+Sep 2015 - Oct 2018
+● Modernized a legacy web-based bus ticketing system into a cross-platform solution (web, mobile, desktop) using Blazor Hybrid (Blazor + .NET MAUI), achieving 90%+ code reuse and consistent performance across devices.
+● Designed a modular, cloud-hosted architecture on Microsoft Azure, enabling rapid feature expansion, simplified maintenance, and continuous platform evolution.
+● Built scalable backend services with ASP.NET Core, Entity Framework, RESTful APIs, GraphQL, gRPC, and WebSockets, backed by MS SQL Server and Azure PostgreSQL, leveraging Redis Cache and async processing to reduce latency and sustain peak-load throughput.
+● Implemented payment and booking microservices using Kafka and RabbitMQ for event-driven and message-based communication; integrated Stripe and developed a custom bill-splitting algorithm with shareable invoice links and real-time payment reconciliation.
+● Deployed and operated containerized services using Docker, Kubernetes, and Azure Container Apps, ensuring reliable CI/CD pipelines and consistent runtime environments.
+● Implemented end-to-end security and observability, including OAuth 2.0, JWT, SSL/TLS, RBAC/ReBAC, and centralized monitoring with Azure Application Insights and Grafana; integrated Twilio for real-time user notifications (booking status, payment confirmations), contributing to a 3× increase in user satisfaction.

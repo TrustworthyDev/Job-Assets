@@ -1,0 +1,3 @@
+CQRS Patterns
+TDD
+OOP
