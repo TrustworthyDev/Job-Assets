@@ -32,4 +32,14 @@
 - Wolin
 
 # West Pomerania
+- Barlinek
 - Bialogard
+- Biesiekierz
+- Choszczno
+- Czaplinek
+- Darlowo
+- Debno
+- Dziwnow
+
+# Ciechanow
+- Mazovia (O)

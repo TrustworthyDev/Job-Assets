@@ -6,6 +6,8 @@ Requirements:
 
 1. The resume must be highly optimized for ATS parsing and keyword matching based on the job description. Ensure the resume naturally includes the important technologies, skills, frameworks, and responsibilities mentioned in the job description. Especially, the latest company should use same tech stacks and same industry. Only update the Summary and Skill sets and work experiences based on JD
 
+Check the Job Description I share, extract all tech skills and put them into both [Core Technical Skills] and [Professional Experience] sections.
+
 2. Do NOT fabricate unrealistic claims. The resume must sound like real engineering experience.
 
 3. Each company experience should contain strong, industry-relevant engineering statements explaining:

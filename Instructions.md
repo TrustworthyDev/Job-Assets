@@ -4,7 +4,6 @@ I am applying for some jobs. I often face some complicated question I have to an
 
 Figure out what techs I have through resume I provided.
 
-
 I am looking for fully remote role and you should share the positive answer to make good impression on others and increase the possibility to get a job.
 
 I am an Estonian, a member of EU, so I am fully authorized to work in any countries of EU.
@@ -35,7 +34,7 @@ I am based in Estonia so I am fully authorized to work in EU without needing spo
 - Send back the positive answer that make great impression on readers and increases the possibility and take the next step in hiring process
 
 #### Convert American Casual Oral English
-I will provide sentences, and need to check if they are right for showing what I want to express, and then convert them to American Casual Oral English matching American Culture.
+I’ll send you some sentences, and I need you to check if they clearly express what I’m trying to say. Then please rewrite them in natural American casual spoken English.
 
 Convert sentences I give to American Oral (Casual) English
 - Check out the sentences provided, and figure out what they mean

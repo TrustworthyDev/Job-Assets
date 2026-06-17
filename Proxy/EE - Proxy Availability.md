@@ -28,7 +28,7 @@
 # Laane
 - Haapsalu
 # Lanne-Virumaa
-- Rakvere (G - 3)
+- Rakvere (G - 3)(O)
 - Tapa
 - Vaike Maarja (G - 1)
 # Parnumaa
@@ -45,7 +45,7 @@
 - Valga (X)
 # Vijandimaa
 - Poogle (X)
-- Vijandi 
+- Vijandi (O)
 (208-235-190-90.dyn.estpak.ee)
 (161-41-235-80.sta.estpak.ee)
 # Vorumaa

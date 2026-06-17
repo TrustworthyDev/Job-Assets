@@ -60,22 +60,6 @@ If fewer roles exist, follow the descending pattern as closely as possible.
 * Include only skills that exist in my resume or are strongly supported by experience.
 * Do not add unsupported tools or technologies.
 
-8. OUTPUT FORMAT
-   Return:
-   A. ATS Match Analysis
-
-   * Estimated ATS Match %
-   * Missing Skills
-   * Strength Areas
-   * Potential Gaps
-
-B. Optimized Resume
-
-C. Keyword Coverage Table
-
-| JD Keyword | Included? | Where Used |
-| ---------- | --------- | ---------- |
-
 9. ANTI-STUFFING RULES
 
 * Never force every JD keyword into the resume.
