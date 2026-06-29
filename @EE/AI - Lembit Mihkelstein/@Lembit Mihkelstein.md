@@ -19,7 +19,8 @@ GitHub:
 Resume:		https://docs.google.com/presentation/d/1WHqF1ClMCDjU5h3khcEmnTpojZvIdPM-LfnUMhoZ1I0/edit?usp=sharing
 Cover:      
 
-
+c094ec53748f4153:VAp9yrdSf21UIbs0@res.proxy-seller.com:10000
+b314bf1d2f40b266:j3FBK6Dmk04PdIWO@res.proxy-seller.com:10002
 
 ### Education
 Master's Degree in Computer Science
