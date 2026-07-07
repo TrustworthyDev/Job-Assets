@@ -12,7 +12,7 @@ Backend: Django, Django REST Framework, FastAPI, REST APIs, gRPC, GraphQL, WebSo
 Authentication & Security: JWT, OAuth 2.0, OIDC, Passwordless Magic Link, RBAC, Cloudflare WAF, Cloudflare Bot Management, Rate Limiting
 AI / GenAI: OpenAI APIs, GPT-4, GPT-4o, LLMs, RAG, PyTorch, Streaming STT, Neural Machine Translation, Azure Neural TTS
 Frontend: React, Next.js, TypeScript, SSR, SSG, UI/UX, SEO, WCAG 2.2, Core Web Vitals: LCP, CLS, INP, FCP, TTFB
-Database: PostgreSQL, RDBMS, Query Optimization, Indexing, Partitioning
+Database: PostgreSQL, RDBMS, Query Optimization, Indexing, Partitioning, SQLAlche
 Caching & Async Processing: Redis, Celery, AWS ElastiCache
 Messaging: Kafka, AWS MSK
 Search Engine: Elasticsearch, AWS OpenSearch
@@ -24,11 +24,7 @@ IDE & Collaboration: Cursor, PyCharm, Git, Pull Requests, Code Review, Agile/Scr
 Additionally, you should add more techs from Project Desctiption into the work history creatively
 
 ## The Architecture of Work History
-- Backend, Microservices, Third-Party API Integration, Messaging QueuesHighly accomplished Senior Software Engineer with a proven track record in designing, developing, and deploying
-robust, high-load backend systems and scalable microservices. Expertise in Node.js, TypeScript, and AWS cloud
-infrastructure, with a strong focus on API integration, data mapping, and ensuring seamless data transfer across diverse
-systems. Dedicated to driving technical excellence, influencing best practices, and mentoring teams to deliver bullet
-proof, high-quality solutions in fast-paced environments.
+- Backend, Microservices, Third-Party API Integration, Messaging Queues
 - Database, Query Optimization, Caching, Search Engine for massive datasets
 - Cloud Hosting, containerization/its management
 - AI/GenAI Implmentaion/Development, CI/CD

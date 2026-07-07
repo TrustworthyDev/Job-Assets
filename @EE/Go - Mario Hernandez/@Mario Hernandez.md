@@ -5,10 +5,10 @@ Mario Hernandez
 Link:       https://ariregister.rik.ee/eng/company/17347848/Mario-Andres-Granada-Hernandez?search_id=cc99c3b&pos=4
 DOB:        06/01/1990
 Address:    Jahu tänav 1a, 10415 Tallinn, Estonia
-Email:      mhernandez90@outlook.com
+Email:      mhernan90@outlook.com
 Password:   P@ssword!@#$%
 Recovery:
-Linkedin:   
+Linkedin:   https://www.linkedin.com/mario-hernandez-engineer
 Resume:
 Cover Letter: 
 
@@ -39,3 +39,5 @@ Seedium | Tallinn, Estonia | Dec 2017 - Aug 2020
 
 # Back-End Developer
 KeenEthics | Tallinn, Estonia | Jul 2015 - Nov 2017
+
+5b28b8d1c1f9aa0c:FLYk9yHuW3Vq6ThG@res.proxy-seller.com:10000

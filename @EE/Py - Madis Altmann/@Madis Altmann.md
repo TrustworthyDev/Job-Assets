@@ -70,7 +70,7 @@ AI Voice Concierge - Hospitality & Travel Platform (SaaS / Automation)
 • Built user interfaces using Vue 2.6, component-driven UI, dynamic rendering, enhancing guest experience and operational efficiency. 
 
 # Full-Stack Engineer
-Ronas IT |  Tallinn, Estonia  |  Jul 2015 - Dec 2018 
+Ronas IT |  Tallinn, Estonia  |  Jul 2015 - Dec 2019 
 MediaSphere - AI Content Personalization Platform (Media / EdTech) 
 
 • Built scalable backend systems using Python 3.5–3.7, Django 1.11–2.1, GCP, API-first architecture, delivering unified content across web, mobile, and smart TV platforms. 
