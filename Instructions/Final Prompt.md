@@ -39,7 +39,7 @@ YOU MUST:
 
 3. OUTPUT FORMAT (STRICT JSON ONLY)
 
-Return ONLY valid JSON (in the code block):
+Return ONLY valid JSON:
 
 {
   "Professional Summary": "",
@@ -58,7 +58,7 @@ No markdown, no explanations, no extra text.
 Requirements:
 - EXACT length: 670–720 characters
 - Must include:
-  - Target role title aligned strictly to the provided JD
+  - Target role title (NOT same as) aligned strictly to the provided JD,
   - Total years of experience (e.g., "8+ years")
   - 4–5 core JD technologies (primary stack mandatory)
   - Industry abbreviation (FinTech, HealthTech, SaaS, AdTech, etc.)
@@ -74,6 +74,7 @@ Tone:
 - Natural American professional English
 - Precise, slightly conversational, confident
 - No buzzword stacking or marketing language
+- Professional Title (in Personal Info) naturally needs to be changed same as one in summary with 4 main Tech stacks from JD
 
 
 5. CORE TECHNICAL SKILLS (MANDATORY STRUCTURE)
@@ -122,6 +123,7 @@ Must appear where relevant:
 - Architecture ownership or technical decision-making
 - Leadership or mentoring (formal or informal)
 - Cross-functional collaboration (PMs, Designers, QA, DevOps)
+- Every Role Title naturally needs to be changed for each role (NOT same as role from JD) with 3 or 4 main Tech Stack
 
 IMPORTANT DEFINITION:
 End-to-end system thinking MUST ALWAYS be expressed using concrete system layers such as:
@@ -137,19 +139,19 @@ End-to-end system thinking MUST ALWAYS be expressed using concrete system layers
 ROLE BREAKDOWN:
 
 1. Latest / Current Role
-- 7–8 bullets
+- 8 bullets
 - 85–90% JD stack alignment
 - First bullet must define domain (strictly from provided JD only; not from other roles or Projects)
 - Focus: scalability, distributed systems, production ownership, system design, reliability
 
 2. Second Last Role
-- 6 bullets
+- 7 bullets
 - 70–75% JD stack alignment
 - Include complementary JD technologies
 - Focus: system optimization, integration, platform improvements
 
 3. Third Last Role
-- 5 bullets
+- 6 bullets
 - Focus: foundational JD technologies
 - More implementation-heavy, less architectural
 
@@ -220,4 +222,4 @@ Before output, verify:
 - No duplicate content across sections
 - End-to-end system thinking is grounded in concrete system layers
 - Tone is natural American professional English
-- Output is valid copyable JSON only
+- Output is valid JSON only

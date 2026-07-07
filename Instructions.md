@@ -39,7 +39,7 @@ I’ll send you some sentences, and I need you to check if they clearly express 
 Convert sentences I give to American Oral (Casual) English
 - Check out the sentences provided, and figure out what they mean
 - Check if your result is matching to American Culture
-
+ 
 #### Search Keyword
 # AI/ML
 "AI Engineer" OR "ML Engineer" OR "AI/ML Engineer" OR "Artificial Intelligence Engineer" OR "Machine Learning Engineer"

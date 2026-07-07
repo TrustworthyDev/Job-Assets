@@ -11,6 +11,7 @@
 - Paldiski (1 stv, )
 - Peetri (X)
 - Rae Parish (1, 1---)
+"13-52-46-176.dyn.estpak.ee" (07/07)
 - Saku (X)
 - Tallinn
 - Viimsi

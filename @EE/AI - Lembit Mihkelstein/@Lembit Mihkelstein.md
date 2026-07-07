@@ -33,7 +33,7 @@ Senior AI Architect and Machine Learning Engineer with 10+ years of experience b
 ### Work History
 # Senior AI/ML Software Engineer
 Indeema | Kraków, Poland
-Nov 2023 - May 2026
+Nov 2023 - Jun 2026
 • Architected and deployed text-to-application AI platform using Python 3.11, FastAPI 0.110, and Google Cloud Platform, generating production-ready mini applications in real time.
 • Implemented LLM orchestration pipelines with Vertex AI 1.47, OpenAI GPT-4o, and Anthropic Claude 3, enabling structured tool calling for automated code and logic generation.
 • Developed machine learning–based intent routing using Hugging Face Transformers 4.38, PyTorch 2.2, and scikit-learn 1.4, producing structured execution outputs.
@@ -62,8 +62,7 @@ Sep 2018 - Apr 2020
 • Implemented multi agent architecture and reward modeling with Keras 2.3, NumPy 1.18, and SciPy 1.4, enabling adaptive decision making under operational constraints.
 • Built high fidelity refinery simulation environment using Pandas 1.0, SimPy 3.0, and Matplotlib 3.2, generating large scale synthetic experience data for safe RL training.
 • Developed policy optimization and training pipelines with Proximal Policy Optimization, TensorBoard 2.1, and HDF5, producing stable convergence across thousands of simulated refinery states.
-• Engineered experiment tracking and reproducible model lifecycle workflo
-3ws using MLflow 1.8, Docker 19.03, and Git 2.25, ensuring controlled training iterations and model versioning.
+• Engineered experiment tracking and reproducible model lifecycle workflows using MLflow 1.8, Docker 19.03, and Git 2.25, ensuring controlled training iterations and model versioning.
 
 
 # Machine Learning Engineer 
