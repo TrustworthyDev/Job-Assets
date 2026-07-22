@@ -66,7 +66,6 @@ Requirements:
 
 Must NOT include:
 - Company names
-- Percentages
 - Projects
 - JD company references
 
@@ -98,6 +97,7 @@ Allowed reference domains (flexible labels):
 - LLMs / AI Models
 - Developer Tools
 - Third-Party API Integration
+- Etc
 
 Rules:
 - Category names MAY be adapted based on JD domain relevance
@@ -109,12 +109,14 @@ Rules:
 6. PROFESSIONAL EXPERIENCE (CORE SECTION)
 
 GENERAL RULES:
+- Result-Oriented Content
 - All bullets must describe real engineering work
 - Each bullet must include:
   - System, feature, or architecture description
-  - Minimum 3 technologies when relevant
+  - Minimum 4 technologies when relevant
   - Engineering problem solved
   - Production context (scale, reliability, CI/CD, workflows, collaboration)
+  - Number, Percentage, Solving Latency for Performance improvements, Scale and capacity, Cost and time savings, Reliability and quality,
 
 REQUIRED THEMES:
 Must appear where relevant:
@@ -173,7 +175,6 @@ Rules:
 - 3–4 bullets maximum
 - Must be directly relevant to JD requirements
 - Must NOT overlap with Projects section
-- No percentages unless explicitly provided in JD
 - Focus on:
   - System scale
   - Reliability improvements (qualitative only)

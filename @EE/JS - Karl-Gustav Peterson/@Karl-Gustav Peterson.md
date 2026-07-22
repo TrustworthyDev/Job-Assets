@@ -12,7 +12,7 @@ Email: 		karlgpeter90@outlook.com
 Password: 	P@ssw0rd!@#$%
 Recovery: 	shawn.kingsbury.dev@gmail.com
 LinkedIn: 	https://www.linkedin.com/in/karl-gustav-peterson-9097b23b1
-REAL:       https://www.linkedin.com/in/karl-g-peterson-39588b40a/
+REAL:       https://www.linkedin.com/in/karl-peterson-js-engineer/
 GitHub: 	
 Resume:		https://docs.google.com/presentation/d/1ECmQSoZo_4AcXcTAWu-qE-342Qmk58_eQMqNoyUnGyg/edit?usp=sharing
 Cover:      https://docs.google.com/presentation/d/1m2msL62vXnhnu_wy8HwjcKkjchKX8sp8s9H4SeHZvpQ/edit?usp=sharing
