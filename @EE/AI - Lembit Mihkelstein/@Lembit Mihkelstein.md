@@ -14,7 +14,8 @@ Time Zone:  EET
 
 Password: 	P@ssw0rd!@#$%
 Recovery: 	mariuszkrol831@gmail.com
-Real:       https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/
+Linkedin:   https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/
+Real:       https://www.linkedin.com/in/lembit-mihkelstein-ai-engineer/
 GitHub: 	
 Resume:		https://docs.google.com/presentation/d/1WHqF1ClMCDjU5h3khcEmnTpojZvIdPM-LfnUMhoZ1I0/edit?usp=sharing
 Cover:      

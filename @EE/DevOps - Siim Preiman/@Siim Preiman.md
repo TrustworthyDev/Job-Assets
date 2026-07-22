@@ -8,7 +8,7 @@ Address:    Pelguranna tn 45, 10315 Tallinn, Estonia
 Email:      siimpreiman92@outlook.com
 Password:   P@ssword!@#$%
 Recovery:
-Linkedin:   https://www.linkedin.com/in/siim-g-preiman-050193414/
+Linkedin:   https://www.linkedin.com/in/siim-g-preiman-050193415/
 Resume:     
 Cover Letter: 
 

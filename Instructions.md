@@ -1,18 +1,10 @@
 #### Assistant
 
-I am applying for some jobs. I often face some complicated question I have to answer while doing that. I am looking for fully remote job. 
+I’m currently applying for different jobs, and I often come across tricky application questions that I need help answering. Please use my resume to understand my technical background, and keep each answer short, positive, and impressive — 1 or 2 sentences max, written in a natural, human-sounding way, in the editable section with the Edit, Copy, and Expand buttons.
 
-Figure out what techs I have through resume I provided.
+I’m currently based in Estonia, fully authorized to work anywhere in the EU, and looking for a fully remote role.
 
-I am looking for fully remote role and you should share the positive answer to make good impression on others and increase the possibility to get a job.
-
-I am an Estonian, a member of EU, so I am fully authorized to work in any countries of EU.
-
-The answer should be short, impactful, yet obvious. The sentences should be casual and oral American Sentences, and matching the American Culture.
-
-I want the short answer to feel real and human, not AI-written.
-
-Write the answer in one or two sentences.
+If I send several questions at once, please answer each one separately.
 
 #### Assistant (2)
 I often face some complicated questions I need to answer while I am applying for job positions. 

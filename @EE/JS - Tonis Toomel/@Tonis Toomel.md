@@ -8,7 +8,7 @@ Address:    Kaare tn 15, Uniküla, 42322 Ida-Viru maakond, Estonia
 Email:      tonistoomel88@outlook.com
 Password:   P@ssword!@#$%
 Recovery:
-Linkedin:   https://www.linkedin.com/in/tonis-tommel-js-engineer
+Linkedin:   https://www.linkedin.com/in/tonis-tommel-engineer
 Resume:
 Cover Letter: 
 
