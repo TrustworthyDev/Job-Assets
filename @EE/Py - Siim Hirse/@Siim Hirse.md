@@ -5,7 +5,7 @@ Proxy:      :@res.proxy-seller.com:10000
 
 ### Info
 Link: 		
-DOB:        05/13/1990
+DOB:        12/27/1992
 Address: 	Vene tn 16, 10123 Tallinn, Estonia ()
 Email: 		siihirse92@outlook.com
 Password: 	P@ssw0rd!@#$%
